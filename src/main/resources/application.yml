@@ -1,0 +1,10 @@
+micronaut:
+  port: 1234
+  application:
+    port: 1234
+    name: programhome
+
+netty:
+  default:
+    allocator:
+      max-order: 3
